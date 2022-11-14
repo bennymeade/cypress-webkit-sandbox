@@ -6,7 +6,7 @@
   "author": "bennymeade <brendan_meade@yahoo.co.uk>",
   "license": "MIT",
   "dependencies": {
-    "cypress": "10.8.0",
-    "playwright-webkit": "^1.25.2"
+    "cypress": "11.0.1",
+    "playwright-webkit": "1.27.1"
   }
 }
