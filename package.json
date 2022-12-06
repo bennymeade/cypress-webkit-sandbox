@@ -6,6 +6,12 @@
   "author": "bennymeade <brendan_meade@yahoo.co.uk>",
   "license": "MIT",
   "dependencies": {
+    "npm-install-peers": "^1.2.2"
+  },
+  "devDependencies": {
+    "consola": "^2.15.3"
+  },
+  "peerDependencies": {
     "cypress": "11.0.1",
     "playwright-webkit": "1.27.1"
   }
